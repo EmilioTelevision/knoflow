@@ -1,0 +1,9 @@
+#logo {
+background: url('../../images/Rectangle3.png') no-repeat;
+width:192px;
+height:227px;
+position:absolute;
+left:46%;
+top:239px;
+z-index:1099;
+}
